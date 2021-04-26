@@ -2,7 +2,7 @@
 
 Teknack is one of the amazing battlefields provided by ACM for students of not just DBIT but also of other colleges to boost up their creative skills and pump up their technical skills by amalgamating with newer ideas and facts to build up Games that give the players an experience that would last with them forever.
 
-##About Us
+## About Us
 ### Training and Guidance
 We teach and train the students to develop mobile games using the Unity Engine. We guide them throughout the journey from ideation to release of the game.
 
